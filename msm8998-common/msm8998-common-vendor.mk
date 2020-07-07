@@ -91,7 +91,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     IFAAService \
-    vendor.oneplus.camera.CameraHIDL-V1.0-java \
     vendor.oneplus.hardware.param-V1.0-java
 
 ifeq ($(QCPATH),)
